@@ -154,7 +154,7 @@ TimersManager (Singleton)
 │   ├── OnTick (Interval) Callback
 │   └── OnFinished Callback
 └── Stopwatches (Key: string ID)
-
+```
 ---
 
 ## Technologies
